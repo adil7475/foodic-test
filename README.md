@@ -56,3 +56,4 @@ ingredient or not. And in_stock_quantity is for checking when 50% will be reach.
  - We can use Service class to make the controller much simpler.
  - We can use Redis for track is admin has been notified against low quantity of the specific ingredient
  - We can also improve the response send from the controller.
+ - We can also write the unit test by using PHPUnit, but as HR say I don't need to write unit testing for this challenge
